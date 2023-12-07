@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="go_to_first">Ir al Primero</string>
+    <string name="go_to_second">Comprar Boletos</string>
+    <string name="go_to_third">Ir al Tercero</string>
+    <string name="go_to_list">Ver destinos</string>
+
+    <string name="username_label">Usuario</string>
+    <string name="password_label">Constraseña</string>
+    <string name="login">Iniciar Sesión</string>
+</resources>
